@@ -1,0 +1,6 @@
+title: Agreen
+description: Terms of Service and Privacy Policy for the Agreen mobile app by Green Carbon Inc.
+repo_edit_base: https://github.com/ajoanna-lgtm/agreen-legal/edit/main/
+markdown: kramdown
+exclude:
+  - README.md

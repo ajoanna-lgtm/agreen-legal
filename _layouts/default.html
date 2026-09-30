@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} – {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <style>
+    :root { --text:#1f2a24; --muted:#5d6b63; --bg:#ffffff; --panel:#f3f7f4; --accent:#2e7d4f; --line:#dde5df; }
+    @media (prefers-color-scheme: dark) {
+      :root { --text:#e4ebe6; --muted:#9aaaa0; --bg:#121815; --panel:#1b231e; --accent:#6cc28f; --line:#2a352e; }
+    }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--text);
+      font:16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    header { border-bottom:1px solid var(--line); background:var(--panel); }
+    .wrap { max-width:760px; margin:0 auto; padding:0 16px; }
+    header .wrap { display:flex; flex-wrap:wrap; gap:8px 20px; align-items:center; justify-content:space-between; padding-top:14px; padding-bottom:14px; }
+    .brand { font-weight:700; font-size:1.15rem; color:var(--accent); text-decoration:none; }
+    nav a { color:var(--text); text-decoration:none; margin-left:16px; font-size:.95rem; }
+    nav a:first-child { margin-left:0; }
+    nav a:hover, nav a[aria-current] { color:var(--accent); text-decoration:underline; }
+    main { padding:32px 0 48px; }
+    h1 { font-size:1.8rem; line-height:1.25; margin:0 0 4px; }
+    h2 { font-size:1.25rem; margin:2em 0 .5em; padding-top:.5em; border-top:1px solid var(--line); }
+    h3 { font-size:1.05rem; margin:1.5em 0 .4em; }
+    a { color:var(--accent); }
+    ul, ol { padding-left:1.4em; }
+    li { margin:.25em 0; }
+    .meta { color:var(--muted); margin:0 0 24px; }
+    footer { border-top:1px solid var(--line); color:var(--muted); font-size:.85rem; }
+    footer .wrap { padding-top:16px; padding-bottom:24px; display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px; }
+    footer a { color:var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">Agreen</a>
+      <nav>
+        <a href="{{ '/terms.html' | relative_url }}"{% if page.url == '/terms.html' %} aria-current="page"{% endif %}>Terms of Service</a>
+        <a href="{{ '/privacy.html' | relative_url }}"{% if page.url == '/privacy.html' %} aria-current="page"{% endif %}>Privacy Policy</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      <h1>{{ page.title }}</h1>
+      {% if page.last_updated %}<p class="meta">Last updated: {{ page.last_updated }}</p>{% endif %}
+      {{ content }}
+    </div>
+  </main>
+  <footer>
+    <div class="wrap">
+      <span>© Green Carbon Inc. · Hanzomon PREX North 9F, 2-3-2 Kojimachi, Chiyoda-ku, Tokyo, Japan</span>
+      <a href="{{ site.repo_edit_base }}{{ page.path }}" rel="nofollow">Edit this page (admin)</a>
+    </div>
+  </footer>
+</body>
+</html>
