@@ -14,9 +14,9 @@ The Agreen Application helps farmers participate in sustainable agriculture acti
 
 ## 2. Eligibility to Use
 
-I confirm that I am a participating farmer or an authorized user, and that I own, lease, or hold lawful operational control over the agricultural plots registered in this Application and possess the legal authority to implement project practices on these lands. I will use the application only for its intended purpose and as guided by Green Carbon and its partners.
+I confirm that I am at least 18 years of age. I confirm that I am a participating farmer or an authorized user, and that I own, lease, or hold lawful operational control over the agricultural plots registered in this Application and possess the legal authority to implement project practices on these lands. I will use the application only for its intended purpose and as guided by Green Carbon and its partners.
 
-## 3. Data Collection and Ownership
+## 3. Data Collection and Licensing
 
 I understand that the application will collect various types of information, including but not limited to:
 
@@ -26,21 +26,13 @@ I understand that the application will collect various types of information, inc
 
 I understand that the Camera is used to take photos of my fields, water pipes, and farming activities. These photos serve as evidence that the project meets its data collection and verification requirements, which must be satisfied for the project to be eligible to generate carbon credits.
 
-I give Green Carbon full rights to use this data in any way required for project operations, verification, reporting, and future improvements for as long as necessary to fulfill the purposes, or as required by law.
+I grant Green Carbon Inc. an exclusive, perpetual, irrevocable, royalty-free license to use, analyze, aggregate, and commercialize all agronomic, photographic, and environmental data. Personal data will be processed and retained in accordance with applicable data protection laws and the Company's [Privacy Policy](privacy.html).
 
-Green Carbon owns all data collected through the application.
+## 4. Carbon Credit Title and Rights
 
-## 4. Carbon Credit Ownership
+I understand that the application supports activities that may generate Carbon Credits. Unless otherwise expressly provided in a separate written project agreement between me and Green Carbon Inc., any and all Carbon Credits or greenhouse gas reductions generated belong entirely to Green Carbon Inc. I agree not to register, claim, transfer, or sell the emissions reductions generated from my registered plots through any other third-party system, registry, or standard.
 
-I understand that the application supports activities that may generate Carbon Credits.
-
-I agree that any and all Carbon Credits generated from my participation or data submitted via this application belong solely and entirely to Green Carbon Inc.
-
-I do not have any right to register, receive, sell, or claim any portion of these Carbon Credits.
-
-## 5. Confidentiality and Use of My Data
-
-I understand that all data collected through this application will be owned by Green Carbon Inc. This includes any personal, farming, and field-related data or other data of any kind that I submit or that is collected during my use of the application.
+## 5. Data Rights and Cross-Border Transfer
 
 I agree that Green Carbon may use my data in any way necessary for project reporting, analysis, monitoring, certification, and other official or future project-related activities.
 
@@ -72,9 +64,7 @@ If Green Carbon makes any changes (amendments) to the application’s terms, pol
 
 ## 8. Withdrawal and Data Retention
 
-I can stop using the application at any time.
-
-However, all data submitted through the application will remain available to Green Carbon and may be used for reporting, monitoring, certification, or any other official project-related purposes — even after I stop using the application or the project ends.
+I can stop using the application at any time. I hold the right to request the deletion or withdrawal of my personal identifying information (such as my name, contact information, and login credentials) by emailing Green Carbon directly at [agreendev@green-carbon.inc](mailto:agreendev@green-carbon.inc) or by using the 'Contact Green Carbon Office' option located in the Support section of the Application. Upon receiving a verified request, Green Carbon will delete or anonymize my personal identifiers within 30 days. However, all agronomic data, GPS coordinates, field photos, and project records submitted through the application will remain available to Green Carbon and will be permanently retained for a minimum of 15 years to comply with international carbon standard audits, Measurement, Reporting, and Verification (MRV), and regulatory requirements—even after I stop using the application or the project ends.
 
 ## 9. Indemnity Clause
 

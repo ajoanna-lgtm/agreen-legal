@@ -89,13 +89,13 @@ However, no method of transmission or storage is completely secure, and we canno
 
 ## 5. Data Retention
 
-We retain your personal information for as long as necessary to fulfill the purposes in this Privacy Policy or as required by law. Project records (field and activity data, photos and survey answers) are kept for [X years after the end of the project's crediting period], because registries and auditors may need to re-check evidence. Account information is kept while your account is active and for [X months] afterwards. After that, we delete or anonymise it.
+We retain your personal information for as long as necessary to fulfill the purposes in this Privacy Policy or as required by law. Project records (field and activity data, photos and survey answers) are kept for a minimum of 15 years to comply with international carbon standard audits, Measurement, Reporting, and Verification (MRV), and regulatory requirements, because registries and auditors may need to re-check evidence. Account information is kept while your account is active and for [X months] afterwards. After that, we delete or anonymise it.
 
 Accounts and data from earlier versions of the App (before [version/date]) were not transferred to the current App. We keep that data separately for project reporting and verification, under the same retention terms.
 
 ### Deleting your account and data
 
-You may request deletion of your account and associated data by emailing [agreendev@green-carbon.inc](mailto:agreendev@green-carbon.inc) or by contacting the Green Carbon Office through the App. Some records already submitted as evidence for carbon credits may need to be kept for the period above to meet registry requirements and prevent double counting; where possible, we will anonymise them.
+You may request deletion of your account and associated data through contacting [agreendev@green-carbon.inc](mailto:agreendev@green-carbon.inc) or by contacting the Green Carbon Office through the App. Some records already submitted as evidence for carbon credits may need to be kept for the period above to meet registry requirements and prevent double counting; where possible, we will anonymise them.
 
 ## 6. App Permissions Notice
 
