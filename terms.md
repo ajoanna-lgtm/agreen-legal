@@ -91,14 +91,14 @@ I understand that using the application or participating in related programs doe
 
 I agree that Green Carbon may use my data in anonymized or combined form for analysis, reporting, scientific studies, or climate-related improvements without identifying me personally.
 
-## 12. Language and Understanding Confirmation
+## 12. Governing Law and Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of Japan, regardless of the country in which project activities are conducted. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the Tokyo District Court, Japan, as the court of first instance.
+
+## 13. Language and Understanding Confirmation
 
 I confirm that this consent was presented to me in a language I understand.
 
-## 13. Consent Acknowledgment
+## 14. Consent Acknowledgment
 
 I confirm that I had the opportunity to read and understand the terms of this consent, and I accept them by ticking the box and clicking “I Agree.”
-
-## 14. Governing Law and Jurisdiction
-
-This Agreement shall be governed by and construed in accordance with the laws of Japan, regardless of the country in which project activities are conducted. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the Tokyo District Court, Japan, as the court of first instance.
