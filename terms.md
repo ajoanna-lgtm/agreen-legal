@@ -4,6 +4,10 @@ title: Agreen Mobile App – Consent to Use the Application
 last_updated: 2026/10/19
 ---
 
+**Green Carbon Inc.**
+
+Hanzomon PREX North 9F, 2-3-2 Kojimachi, Chiyoda-ku, Tokyo, Japan.
+
 ## 1. Purpose of the Application
 
 The Agreen Application helps farmers participate in sustainable agriculture activities, including the Alternate Wetting and Drying (AWD) Method Project, and supports field monitoring, data collection, and program communications.
@@ -19,6 +23,8 @@ I understand that the application will collect various types of information, inc
 - Personal details (e.g., name, phone number, location)
 - Farm-related data (e.g., crop type, water usage, field photos)
 - Device permissions required for verification (e.g., Camera, Location/GPS, and Local Storage) and usage activity (e.g., application logs).
+
+I understand that the Camera is used to take photos of my fields, water pipes, and farming activities. These photos serve as evidence that the project meets its data collection and verification requirements, which must be satisfied for the project to be eligible to generate carbon credits.
 
 I give Green Carbon full rights to use this data in any way required for project operations, verification, reporting, and future improvements for as long as necessary to fulfill the purposes, or as required by law.
 
