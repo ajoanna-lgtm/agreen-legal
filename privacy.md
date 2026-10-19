@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agreen Mobile App – Privacy Policy
-last_updated: 2026/09/28
+last_updated: 2026/10/19
 ---
 
 Agreen, operated by Green Carbon Inc. ("we," "our," or "us"), respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, share and safeguard information about you when you use the Agreen mobile app (the "App"). It covers the App on Android [and iOS]; the Agreen web platform has its own privacy policy.
@@ -101,7 +101,7 @@ You may request deletion of your account and associated data by emailing [agreen
 
 The App asks for the following permissions on your device:
 
-- **Camera:** to take photos of fields and water pipes as project evidence.
+- **Camera:** to take photos of fields, water pipes and farming activities as project evidence. These photos are needed to meet the project's data collection and verification requirements, which must be satisfied for the project to be eligible to generate carbon credits.
 - **Location (precise and approximate):** to record where photos are taken, your farm's location, and to support App functionality.
 
 If you deny these permissions in your device settings, some features of the App, such as submitting photo evidence, may not work properly.
