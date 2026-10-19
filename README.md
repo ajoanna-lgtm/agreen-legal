@@ -10,7 +10,7 @@ Public pages for the Agreen mobile app (Green Carbon Inc.), served with GitHub P
 
 ## How to edit (admin)
 
-1. Open the page on the website and click **"Edit this page (admin)"** in the footer, or open `terms.md` / `privacy.md` on GitHub and click the pencil icon.
+1. On GitHub, open `terms.md` or `privacy.md` in this repository and click the pencil icon (✏️).
 2. Sign in to GitHub if asked. Only people with write access to this repository can save changes.
 3. Edit the text. Formatting basics:
    - `## Heading` makes a section heading, `### Heading` a sub-heading

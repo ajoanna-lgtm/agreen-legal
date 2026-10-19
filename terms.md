@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Agreen Mobile App – Terms of Service
-last_updated: 2026/09/28
+title: Agreen Mobile App – Consent to Use the Application
+last_updated: 2026/10/19
 ---
 
-**Consent to Use the Application – Green Carbon Inc.**
+**Green Carbon Inc.**
 
 By clicking “I Agree”, I confirm that I have read, understood, and voluntarily consent to the following terms for using the Agreen application (“Application”), developed and operated by Green Carbon Inc., located at:
 
@@ -16,7 +16,7 @@ The Agreen Application helps farmers participate in sustainable agriculture acti
 
 ## 2. Eligibility to Use
 
-I confirm that I am a participating farmer or an authorized user. I will use the application only for its intended purpose and as guided by Green Carbon and its partners.
+I confirm that I am a participating farmer or an authorized user, and that I own, lease, or hold lawful operational control over the agricultural plots registered in this Application and possess the legal authority to implement project practices on these lands. I will use the application only for its intended purpose and as guided by Green Carbon and its partners.
 
 ## 3. Data Collection and Ownership
 
@@ -24,9 +24,9 @@ I understand that the application will collect various types of information, inc
 
 - Personal details (e.g., name, phone number, location)
 - Farm-related data (e.g., crop type, water usage, field photos)
-- Device and usage activity (e.g., application logs)
+- Device permissions required for verification (e.g., Camera, Location/GPS, and Local Storage) and usage activity (e.g., application logs).
 
-I give Green Carbon full rights to use this data in any way required for project operations, verification, reporting, and future improvements.
+I give Green Carbon full rights to use this data in any way required for project operations, verification, reporting, and future improvements for as long as necessary to fulfill the purposes, or as required by law.
 
 Green Carbon owns all data collected through the application.
 
@@ -34,9 +34,9 @@ Green Carbon owns all data collected through the application.
 
 I understand that the application supports activities that may generate Carbon Credits.
 
-I agree that any and all Carbon Credits generated from my participation or data submitted via this application belong entirely to Green Carbon Inc.
+I agree that any and all Carbon Credits generated from my participation or data submitted via this application belong solely and entirely to Green Carbon Inc.
 
-I do not have a right to receive, sell, or claim any portion of these Carbon Credits.
+I do not have any right to register, receive, sell, or claim any portion of these Carbon Credits.
 
 ## 5. Confidentiality and Use of My Data
 
@@ -46,18 +46,23 @@ I agree that Green Carbon may use my data in any way necessary for project repor
 
 I understand that:
 
-1. I will not receive any payment, compensation, or ownership rights over the data I provide.
-2. Green Carbon may continue to use any data I submit, even if I stop using the application or withdraw from the project.
-3. Green Carbon may share my data with trusted project partners (such as local universities, technical experts, or certification bodies) as needed to support or verify project activities.
+<ol type="i">
+  <li>I will not receive any payment, compensation, or ownership rights over the data I provide.</li>
+  <li>Green Carbon may continue to use any data I submit, even if I stop using the application or withdraw from the project.</li>
+  <li>Green Carbon may share my data with trusted project partners (such as local universities, technical experts, or certification bodies) as needed to support or verify project activities.</li>
+  <li>I consent to the transfer, storage, and processing of my data outside of my country of residence, including on servers located in Japan.</li>
+</ol>
 
 ## 6. User Responsibilities
 
 I agree to:
 
-1. Use the application for project purposes only
-2. Provide accurate and truthful information
-3. Share photos and updates as requested
-4. Keep my login or access information secure
+<ol type="i">
+  <li>Use the application for project purposes only</li>
+  <li>Provide accurate and truthful information</li>
+  <li>Share photos and updates as requested</li>
+  <li>Keep my login or access information secure</li>
+</ol>
 
 ## 7. Updates, Notifications, and Amendments
 
@@ -73,7 +78,8 @@ However, all data submitted through the application will remain available to Gre
 
 ## 9. Indemnity Clause
 
-I agree to hold Green Carbon harmless for any claims, losses, or issues arising from my incorrect or unauthorized use of the application or the data I submit.
+1. I agree to hold Green Carbon harmless for any claims, losses, or issues arising from my incorrect or unauthorized use of the application or the data I submit.
+2. The Application is provided on an 'AS IS' and 'AS AVAILABLE' basis. Green Carbon is not liable for indirect, incidental, or consequential damages, including loss of crop yield, farming delays, device malfunctions, or data errors.
 
 ## 10. Program Changes or Termination
 
@@ -93,13 +99,6 @@ I confirm that this consent was presented to me in a language I understand.
 
 I confirm that I had the opportunity to read and understand the terms of this consent, and I accept them by ticking the box and clicking “I Agree.”
 
-## Consent Confirmation
+## 14. Governing Law and Jurisdiction
 
-To use the Agreen Application, you must agree to the terms above. In the Application you will be asked to choose one of the following:
-
-- **I Agree** – I confirm that I have read and accept the Agreen Application Consent Terms.
-- **I Do Not Agree** – I understand that I will not be able to access or use the Agreen Application unless I accept the terms.
-
-If I choose “I Do Not Agree,” I will exit the application and will not be able to use its features. I may return at any time to review and accept the terms if I wish to participate later.
-
-See also the [Privacy Policy](privacy.html).
+This Agreement shall be governed by and construed in accordance with the laws of Japan, regardless of the country in which project activities are conducted. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the Tokyo District Court, Japan, as the court of first instance.
