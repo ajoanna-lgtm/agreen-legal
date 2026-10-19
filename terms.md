@@ -4,12 +4,6 @@ title: Agreen Mobile App – Consent to Use the Application
 last_updated: 2026/10/19
 ---
 
-**Green Carbon Inc.**
-
-By clicking “I Agree”, I confirm that I have read, understood, and voluntarily consent to the following terms for using the Agreen application (“Application”), developed and operated by Green Carbon Inc., located at:
-
-Hanzomon PREX North 9F, 2-3-2 Kojimachi, Chiyoda-ku, Tokyo, Japan.
-
 ## 1. Purpose of the Application
 
 The Agreen Application helps farmers participate in sustainable agriculture activities, including the Alternate Wetting and Drying (AWD) Method Project, and supports field monitoring, data collection, and program communications.
