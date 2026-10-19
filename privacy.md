@@ -4,7 +4,7 @@ title: Agreen Mobile App – Privacy Policy
 last_updated: 2026/10/19
 ---
 
-Agreen, operated by Green Carbon Inc. ("we," "our," or "us"), respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, share and safeguard information about you when you use the Agreen mobile app (the "App"). It covers the App on Android [and iOS]; the Agreen web platform has its own privacy policy.
+Agreen, operated by Green Carbon Inc. ("we," "our," or "us"), respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, share and safeguard information about you when you use the Agreen mobile app (the "App"). It covers the App on Android and iOS; the Agreen web platform has its own privacy policy.
 
 ## 1. Information We Collect
 
@@ -14,12 +14,12 @@ Agreen, operated by Green Carbon Inc. ("we," "our," or "us"), respects your priv
 
 - Username (assigned by Green Carbon)
 - Password (stored only in encrypted, hashed form)
-- Email address [confirm]
+- Email address
 - Name, birthday, sex and preferred language
 
 **B. Farmers**
 
-- **General Survey:** sex, occupation, other sources of income, years of farming experience [and phone number — confirm]
+- **General Survey:** sex, occupation, other sources of income, years of farming experience, and phone number
 - **Farmer Survey:** farm size (hectares), land status, farm location, cropping calendar, water management practices, fertilizer, lime type, organic soil amendments, AWD practices and other farming answers
 - **Field information:** farm fields, water pipes, gas chambers, number of plots
 - **Farm activity logbook:** work date, weather, water level measurements, fertilizer application, liming, harvest and similar records
@@ -89,13 +89,13 @@ However, no method of transmission or storage is completely secure, and we canno
 
 ## 5. Data Retention
 
-We retain your personal information for as long as necessary to fulfill the purposes in this Privacy Policy or as required by law. Project records (field and activity data, photos and survey answers) are kept for a minimum of 15 years to comply with international carbon standard audits, Measurement, Reporting, and Verification (MRV), and regulatory requirements, because registries and auditors may need to re-check evidence. Account information is kept while your account is active and for [X months] afterwards. After that, we delete or anonymise it.
+We retain your personal information for as long as necessary to fulfill the purposes in this Privacy Policy or as required by law. Project records (agronomic data, GPS coordinates, field photos, and survey answers) will be permanently retained for a minimum of 15 years after the end of the project's crediting period. This is required because registries and auditors (such as JCM, Verra, and Gold Standard) need to verify evidence for international carbon standard audits and to prevent double counting.
 
-Accounts and data from earlier versions of the App (before [version/date]) were not transferred to the current App. We keep that data separately for project reporting and verification, under the same retention terms.
+Account information is kept while your account is active and for 12 months afterwards. After that, we delete or anonymize it. Accounts and data from earlier versions of the App were not transferred to the current App but are kept separately for project reporting and verification under these same retention terms.
 
 ### Deleting your account and data
 
-You may request deletion of your account and associated data through contacting [agreendev@green-carbon.inc](mailto:agreendev@green-carbon.inc) or by contacting the Green Carbon Office through the App. Some records already submitted as evidence for carbon credits may need to be kept for the period above to meet registry requirements and prevent double counting; where possible, we will anonymise them.
+You hold the right to request the deletion or withdrawal of your personal identifying information by emailing Green Carbon directly at [agreendev@green-carbon.inc](mailto:agreendev@green-carbon.inc) or by using the 'Contact Green Carbon Office' option located in the Support section of the Application. Upon receiving a verified request, we will delete or anonymize your personal identifiers within 30 days. However, as noted above, project records essential for carbon standard audits cannot be deleted.
 
 ## 6. App Permissions Notice
 
@@ -117,7 +117,7 @@ Depending on your jurisdiction, you may have rights to:
 - Withdraw your consent at any time;
 - Complain to your data protection authority, such as the National Privacy Commission in the Philippines.
 
-To exercise these rights, please contact us using the information below. We will reply within [30] days and may ask you to confirm your identity.
+To exercise these rights, please contact us using the information below. We will reply within 30 days and may ask you to confirm your identity.
 
 ## 8. Contact Us
 
